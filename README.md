@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/b7584cbc-9315-4c1f-8686-7d69c02deb73"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/cb411460-1fe6-47a2-826b-db1a667492b8"/>
 <br>
 <br>
 <br>
@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ogbiel/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-dos-santos-nascimento-b935b6269/)
 
-![GabrielNascimentoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNascimentoDev&show_icons=true&theme=dracula)
+![GabrielNascimentoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNascimentoDev&show_icons=true&theme=tokyonight)
 
 <div align="center" >
    
