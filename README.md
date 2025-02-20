@@ -7,10 +7,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ogbiel/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-dos-santos-nascimento-b935b6269/)
-[![Portifólio](https://img.icons8.com/?size=100&id=111593&format=png&color=000000Widht=50px)](https://portifolio-zeta-beryl.vercel.app/index.html)
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
+  <a href="https://github.com/">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNascimentoDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
