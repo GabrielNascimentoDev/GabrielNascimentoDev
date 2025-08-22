@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70C0C&width=435&lines=Bem+vindo;Ol%C3%A1!+Meu+nome+%C3%A9+Gabriel;Tenho+18+anos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70C0C&width=435&lines=Bem+vindo;Ol%C3%A1!+Meu+nome+%C3%A9+Gabriel;Tenho+19+anos)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ogbiel/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-dos-santos-nascimento-b935b6269/)
