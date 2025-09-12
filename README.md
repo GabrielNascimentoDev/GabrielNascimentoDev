@@ -37,6 +37,8 @@
 
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=Y3qiMvGB3Edq&format=png&color=000000">
 
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000">
+
 </div>
 
 <br>
@@ -52,10 +54,13 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png?w=360">
 
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
 
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg">
 
 </div>
