@@ -31,16 +31,6 @@ Sou estudante do 2º ano de Sistemas Para Internet (TSI) 🎓 no Senac 🏫 . So
 </div>
 
 <div align="center">
-  
-#  My GitHub Stats 📊
-
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNascimentoDev&theme=tokyonight&hide_border=true&background=0D1117&ring=7f5af0&fire=ff6b6b&currStreakLabel=7f5af0&sideLabels=ffffff&dates=888888"/>
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielNascimentoDev&bg_color=0D1117&color=7f5af0&line=7f5af0&point=ffffff&hide_border=true&area=true"/>
-</div>
 
 
 
